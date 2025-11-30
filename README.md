@@ -1,10 +1,10 @@
-# PyTorch ML – Complete Guide 🔥
+# PyTorch ML – Complete Guide 
 
 A clean, modern, professional README for your PyTorch Machine Learning project.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository contains practical PyTorch implementations, notebooks, experiments, and learning material for building ML models from scratch. It is designed to help beginners, intermediates, and professionals understand PyTorch with real, practical examples.
 
@@ -24,7 +24,7 @@ Whether you're training your first neural network or running advanced experiment
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 PyTorch-ML/
@@ -45,7 +45,7 @@ PyTorch-ML/
 
 Make sure you have Python 3.8+ installed.
 
-### 1️⃣ Create Virtual Environment
+### Create Virtual Environment
 
 ```
 python -m venv venv
@@ -54,7 +54,7 @@ activate
 
 (Use your OS-specific activation command.)
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```
 pip install -r requirements.txt
@@ -75,7 +75,7 @@ tensorboard
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 Run any notebook from the notebooks folder.
 
@@ -94,7 +94,7 @@ jupyter notebook
 
 ---
 
-## 🧪 Training Workflow (General)
+## Training Workflow (General)
 
 A typical PyTorch workflow:
 
@@ -128,7 +128,7 @@ torch.cuda.manual_seed_all(seed)
 
 ---
 
-## 📁 Dataset Handling
+##  Dataset Handling
 
 Datasets go here:
 
@@ -150,18 +150,18 @@ tensorboard --logdir experiments
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome — feel free to improve the repo.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Thanks to the PyTorch community for supporting deep learning research.
